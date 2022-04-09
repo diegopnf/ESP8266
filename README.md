@@ -3,7 +3,7 @@
 Aqui você encontra alguns projetos utilizando o soc ESP8266. 
 
 <p align="center">
-	<img src="https://www.filipeflop.com/wp-content/uploads/2018/03/DESTAQUE-2.png" width: 850px; height: 274px; />
+	<img src="https://www.filipeflop.com/wp-content/uploads/2018/03/DESTAQUE-2.png" width: 850px height: 274px />
 </p>
 
 ## Conteúdos
